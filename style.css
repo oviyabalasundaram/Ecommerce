@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan' sans-serif;
+}
+#header{
+    display: felx;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    
+}
